@@ -4,9 +4,9 @@ Ce projet nécessite l'installation préalable de deux composants essentiels : M
 
 ## Configuration Requise
 
-1. **MySQL** : Assurez-vous d'avoir MySQL installé sur votre machine. Vous pouvez le télécharger et l'installer depuis le site officiel de MySQL : [https://dev.mysql.com/downloads/](https://dev.mysql.com/downloads/).
+1. **MySQL** : Assurez-vous d'avoir MySQL installé sur votre machine.
 
-2. **Tomcat** : Vous devez également avoir Apache Tomcat installé. Téléchargez-le depuis le site officiel de Tomcat : [https://tomcat.apache.org/](https://tomcat.apache.org/).
+2. **Tomcat** : Vous devez également avoir Apache Tomcat installé.
 
 ## Informations de Connexion pour les Tests
 
